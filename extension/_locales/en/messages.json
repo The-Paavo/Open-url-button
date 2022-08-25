@@ -1,0 +1,20 @@
+{
+    "htmlLang": {
+        "message": "en"
+    },
+    "extensionName": {
+        "message": "Open url button"
+    },
+    "extensionDesc": {
+        "message": "Open url button"
+    },
+    "urlDesc": {
+        "message": "Url. Only http/https urls or internal browser pages."
+    },
+    "saveBtnText": {
+        "message": "Save"
+    },
+    "savedAddrDesc": {
+        "message": "Saved url"
+    }
+}

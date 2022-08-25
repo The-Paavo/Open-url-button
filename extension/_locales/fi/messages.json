@@ -1,0 +1,20 @@
+{
+    "htmlLang": {
+        "message": "fi"
+    },
+    "extensionName": {
+        "message": "Avaa osoite painike"
+    },
+    "extensionDesc": {
+        "message": "Avaa osoite painike"
+    },
+    "urlDesc": {
+        "message": "Osoite. Vain http/https-osoitteet tai selaimen sisäiset osoitteet."
+    },
+    "saveBtnText": {
+        "message": "Tallenna"
+    },
+    "savedAddrDesc": {
+        "message": "Tallennettu osoite"
+    }
+}
